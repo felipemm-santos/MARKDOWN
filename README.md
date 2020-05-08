@@ -26,7 +26,7 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 ## Numeradas
 
 1. Teste1   
-   3. Subitem   
+   1.Subitem   
 2. Teste2
 5. Teste3
 
