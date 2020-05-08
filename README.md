@@ -25,10 +25,11 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 
 ## Numeradas
 
-1. Teste1   
-   1.Subitem   
+1. Teste1
 2. Teste2
-5. Teste3
+   1. Teste3 = Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto
+9. Teste4
+   1. Teste5
 
 Qualquer número seguido de um ponto **n.**
 
