@@ -50,5 +50,5 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 
 ## Tarefas
 
-- [] Página Principal
-- [] Página da loja
+- { } Página Principal
+- { } Página da loja
