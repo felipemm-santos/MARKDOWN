@@ -23,34 +23,34 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 
 # LISTAS
 
-## Numeradas
+* ## Listas Numeradas
 
-* Qualquer número seguido de um ponto "**1.** lista"
+   * Qualquer número seguido de um ponto "**1.** lista"
 
-* Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto 
+   * Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto 
 
-1. Teste1
-2. Teste2
-   1. Teste2.1 
-9. Teste3
-   1. Teste3.1
-
-***
-
-## Demarcadas
-
-\* ou \-
-
-* Teste1
-* Teste2
-   * Teste2.1
-* Teste3
+    1. Teste1
+   2. Teste2
+      1. Teste2.1 
+   9. Teste3
+      1. Teste3.1
 
 ***
 
-## Tarefas
+* ## Listas Demarcadas
 
-- espaço [espaçoo]
+   \* ou \-
 
-- [ ] Página Principal
-- [ ] Página da loja
+   * Teste1
+   * Teste2
+      * Teste2.1
+   * Teste3
+
+***
+
+* ## Lista de Tarefas
+
+   - espaço [espaço]
+
+   - [ ] Página Principal
+   - [ ] Página da loja
