@@ -58,17 +58,30 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 ***
 # Taelas
 
-text\|text|text
+text|text|text
 
----\|\---\|\---
+---|\---|\---
 
-text\|text\|text
+text|text\text
 
 Num|Nome|Nota
 ---|---|---
 1|Felipe|8,5
 
+***
+***
 
+# Linguagem de programação
 
+` document.getelementByiD`
 
+```
+function sumNum (num){
+   return = num += 1
+}
+```
 
+***
+***
+
+# Emojis
