@@ -133,3 +133,7 @@ Emojis para markdown :
 Emojis sem markdown : [emojipedia](https://emojipedia.org/)
 
 😀
+
+## Imagens
+
+![Gato](_imagens//GATO.jpg)
