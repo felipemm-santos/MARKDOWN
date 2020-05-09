@@ -53,3 +53,22 @@ PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES
 \- espaço [espaço]
 - [ ] Página Principal
 - [ ] Página da loja
+
+***
+***
+# Taelas
+
+text\|text|text
+
+---\|\---\|\---
+
+text\|text\|text
+
+Num|Nome|Nota
+---|---|---
+1|Felipe|8,5
+
+
+
+
+
