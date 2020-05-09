@@ -1,79 +1,96 @@
 # MARKDOWN
- Algumas marcas do MARKDOWN
 
-**NEGRITO**  =  ** ** ou __ __
+## Algumas marcas do MARKDOWN
 
-*ITÁLICO* =  * * ou _ _
+| Marca                                    | Escrita                        |
+| ---------------------------------------- | ------------------------------ |
+| **NEGRITO**                              | `**NEGRITO**` ou `__NEGRITO__` |
+| _ITÁLICO_                                | `*ITÁLICO*` ou `_ITÁLICO_`     |
+| ~~RISCADO~~                              | `~~RISCADO~~`                  |
+| ESCAPE MARK                              | `\`                            |
+| # TITULO DE NÍVEL 1                      | `#`                            |
+| ## TÍTULO DE NÍVEL 2                     | `##`                           |
+| LINHA HORIZONTAL                         | `*** ou ---`                   |
+| PODEMOS ~~**_MISTURAR_**~~ CONFIGURAÇÕES | `~~__*MISTURAR*__~~`           |
 
-~~RISCADO~~ =  ~~ ~~
-
-ESCAPE \
-
-# TITULO DE NÍVEL 1 =  \#
-
-## TÍTULO DE NÍVEL 2 =  \##
-
-LINHA HORIZONTAL = *** ou ---
-
-PODEMOS ~~__*MISTURAR*__~~ CONFIGURAÇÕES 
-
-***
 ---
-***
 
-# LISTAS
+---
 
-## Listas Numeradas
+## LISTAS
 
-* Qualquer número seguido de um ponto "**1.** lista"
+### Listas Numeradas
 
-* Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto 
+- Qualquer número seguido de um ponto `**1.** lista`
+
+- Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto
 
 1. Teste1
 2. Teste2
-   1. Teste2.1 
+   1. Teste2.1
+3. Teste3
+   1. Teste3.1
+
+```
+1. Teste1
+2. Teste2
+   1. Teste2.1
 9. Teste3
-      1. Teste3.1
+   1. Teste3.1
+```
 
-***
+---
 
-## Listas Demarcadas
+### Listas Demarcadas
 
-\* ou \-
+`\* ou \-`
 
+- Teste1
+- Teste2
+  - Teste2.1
+- Teste3
+
+```
 * Teste1
 * Teste2
    * Teste2.1
 * Teste3
+```
 
-***
+---
 
-## Lista de Tarefas
+### Lista de Tarefas
 
-\- espaço [espaço]
+`\- espaço [espaço]`
+
+```
 - [ ] Página Principal
 - [ ] Página da loja
+```
 
-***
-***
-# Taelas
+---
 
-text|text|text
+---
 
----|\---|\---
+## Taelas
 
-text|text\text
+```
+| Num | Nome   | Nota |
+| --- | ------ | ---- |
+| 1   | Felipe | 8,5  |
+```
 
-Num|Nome|Nota
----|---|---
-1|Felipe|8,5
+| Num | Nome   | Nota |
+| --- | ------ | ---- |
+| 1   | Felipe | 8,5  |
 
-***
-***
+---
 
-# Linguagem de programação
+---
 
-` document.getelementByiD`
+## Linhas e blocos de código
+
+`document.getelementByiD`
 
 ```
 function sumNum (num){
@@ -81,13 +98,24 @@ function sumNum (num){
 }
 ```
 
-***
-***
+---
 
-# Emojis
+---
 
+## Links
 
-Emojis para markdown : [iKatyang emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet.git)
+`[Texto](link)`
+
+[Meu perfil no GITHUB](https://github.com/felipemm-santos)
+
+---
+
+---
+
+## Emojis
+
+Emojis para markdown :
+[iKatyang emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet.git)
 
 :grinning:
 
