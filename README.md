@@ -85,3 +85,12 @@ function sumNum (num){
 ***
 
 # Emojis
+
+
+Emojis para markdown : [iKatyang emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet.git)
+
+:grinning:
+
+Emojis sem markdown : [emojipedia](https://emojipedia.org/)
+
+😀
