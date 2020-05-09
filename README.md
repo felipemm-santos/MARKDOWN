@@ -25,13 +25,7 @@
 
 - Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto
 
-1. Teste1
-2. Teste2
-   1. Teste2.1
-3. Teste3
-   1. Teste3.1
-
-```
+```markdown
 1. Teste1
 2. Teste2
    1. Teste2.1
@@ -39,34 +33,43 @@
    1. Teste3.1
 ```
 
+1. Teste1
+2. Teste2
+   1. Teste2.1
+3. Teste3
+   1. Teste3.1
+
 ---
 
 ### Listas Demarcadas
 
-`\* ou \-`
+`*` ou `-`
 
-- Teste1
-- Teste2
-  - Teste2.1
-- Teste3
-
-```
+```markdown
 * Teste1
 * Teste2
    * Teste2.1
 * Teste3
 ```
 
+- Teste1
+- Teste2
+  - Teste2.1
+- Teste3
+
 ---
 
 ### Lista de Tarefas
 
-`\- espaço [espaço]`
 
-```
+
+```markdown
 - [ ] Página Principal
 - [ ] Página da loja
 ```
+
+- [ ] Página Principal
+- [ ] Página da loja
 
 ---
 
@@ -74,7 +77,7 @@
 
 ## Taelas
 
-```
+```markdown
 | Num | Nome   | Nota |
 | --- | ------ | ---- |
 | 1   | Felipe | 8,5  |
@@ -90,21 +93,31 @@
 
 ## Linhas e blocos de código
 
+````
 `document.getelementByiD`
 
-```
+
+```javascript
 function sumNum (num){
    return = num += 1
 }
 ```
+````
 
+`document.getelementByiD`
+
+```javascript
+function sumNum (num){
+   return = num += 1
+}
+```
 ---
 
 ---
 
 ## Links
 
-`[Texto](link)`
+`[Meu perfil no GITHUB](https://github.com/felipemm-santos)`
 
 [Meu perfil no GITHUB](https://github.com/felipemm-santos)
 
@@ -117,7 +130,7 @@ function sumNum (num){
 Emojis para markdown :
 [iKatyang emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet.git)
 
-:grinning:
+:grinning: = `:grinning:`
 
 Emojis sem markdown : [emojipedia](https://emojipedia.org/)
 
