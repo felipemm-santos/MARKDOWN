@@ -25,7 +25,7 @@
 
 - Sub-item : 3 espaços + número **(o primeiro tem que ser 1)** + ponto
 
-```markdown
+```
 1. Teste1
 2. Teste2
    1. Teste2.1
@@ -45,7 +45,7 @@
 
 `*` ou `-`
 
-```markdown
+```
 * Teste1
 * Teste2
    * Teste2.1
@@ -61,9 +61,7 @@
 
 ### Lista de Tarefas
 
-
-
-```markdown
+```
 - [ ] Página Principal
 - [ ] Página da loja
 ```
@@ -77,7 +75,7 @@
 
 ## Taelas
 
-```markdown
+```
 | Num | Nome   | Nota |
 | --- | ------ | ---- |
 | 1   | Felipe | 8,5  |
